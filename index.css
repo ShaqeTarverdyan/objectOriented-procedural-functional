@@ -1,0 +1,22 @@
+form {
+	border: 1px solid grey;
+	display: flex;
+	flex-direction: column;
+	padding: 1rem;
+	width: 500px;
+}
+
+input {
+	padding: 1rem;
+	margin: 1rem 0;
+}
+
+button {
+	border: none;
+	outline: none;
+	background-color: #104554;
+	color: white;
+	font-size: 15px;
+	letter-spacing: 1px;
+	padding: 1rem;
+}
